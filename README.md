@@ -1,10 +1,11 @@
 # FinalProjects
 Movie Sentiment Analysis
-📌 Overview
+
+ Overview
 
 This project performs sentiment analysis on movie-related data. It processes titles, compounds, and tags, and analyzes trends in positive, negative, and neutral sentiments. The main goal is to understand audience perception using text data and generate meaningful insights through visualizations.
 
-📂 Project Structure
+Project Structure
 
 final project.ipynb → Jupyter Notebook containing the full analysis and code.
 
@@ -20,13 +21,13 @@ Sentiment score analysis.
 
 Visualization of trends (e.g., sentiment distribution, top tags).
 
-⚙️ Requirements
+Requirements
 
 Install the required libraries before running the notebook:
 
 pip install pandas numpy matplotlib seaborn plotly
 
-🚀 How to Run
+How to Run
 
 Open the notebook in Jupyter or Google Colab.
 
@@ -34,7 +35,7 @@ Run each cell in order.
 
 Explore the generated charts and sentiment insights.
 
-📊 Dashboard Ideas
+Dashboard Ideas
 
 This project can be extended into an interactive dashboard using Tableau or Power BI. Some suggested visualizations include:
 
@@ -46,7 +47,7 @@ Trend of positive/negative sentiment over time.
 
 Comparison between different genres.
 
-✨ Future Scope
+ Future Scope
 
 Improve sentiment analysis with VADER / BERT.
 
